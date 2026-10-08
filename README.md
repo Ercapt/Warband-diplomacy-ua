@@ -1,33 +1,24 @@
 # Українська локалізація Diplomacy для Mount & Blade: Warband
 
-Переклад моду **Diplomacy 4.3+ for Steam** українською.
+Переклад моду **Diplomacy 4.3+** українською мовою.
 
-Автор перекладу: https://steamcommunity.com/id/gouseks/
+## Встановлення
 
-## Встановлення (Python не потрібен)
-
-1. Зробіть резервну копію папок `languages` і файлу `info_pages.txt`
-   вашого моду Diplomacy.
-2. Скопіюйте вміст `languages/en/` з цього репозиторію до:
+1. Скопіюйте вміст `languages/en/` з цього репозиторію до:
    `.../MountBlade Warband/Modules/Diplomacy/languages/en/`
-3. Скопіюйте `info_pages.txt` з кореня репозиторію до:
+2. Скопіюйте `info_pages.txt` з кореня репозиторію до:
    `.../MountBlade Warband/Modules/Diplomacy/info_pages.txt`
-4. Кнопка «Посібник» (замість «Ідея гри») — це рядок `ui_info_pages`
-   у системному файлі `languages/en/ui.csv` основної гри, не моду.
-   Міняється вручну одним рядком.
-
-## Стиль
-
-- Шляхта, гільдмайстер, старости — на **Ви**.
-- Бандити, лутівщики, дезертири — на **ти**.
-- Селяни — проста мова, точкові архаїзми (либонь, мосьпане), без перебору.
-- Міста/замографи — рід за контекстом, без «він/вона» там, де движок не дає роду.
-
-## Для розробки
-
-- `source/module_info_pages.py` — вихідник сторінок довідки.
-  `info_pages.txt` у корені — вже зібраний з нього, ставити готовий.
 
 ## Ліцензія
 
-CC BY-SA 4.0 (див. файл LICENSE).
+Текст, що було перекладено, знаходиться під некомерційною ліцензією
+CC BY-NC-SA 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0/).
+
+Усі права на оригінальний англомовний текст збережено за автором 
+модифікації.
+
+## Посилання
+
+### Автор: [Стім сторінка](https://steamcommunity.com/profiles/76561198041320783) | [Стім модифікації](https://steamcommunity.com/sharedfiles/filedetails/?id=285119009)
+
+### Автор перекладу: [Стім сторінка](https://steamcommunity.com/id/gouseks) | [Стім посібника](https://steamcommunity.com/sharedfiles/filedetails/?id=285119009)
