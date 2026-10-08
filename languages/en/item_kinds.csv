@@ -1,0 +1,1177 @@
+itm_no_item|Немає предмету
+itm_no_item_pl|Немає предметів
+itm_tutorial_spear|Спис
+itm_tutorial_spear_pl|Списи
+itm_tutorial_club|Битка
+itm_tutorial_club_pl|Битки
+itm_tutorial_battle_axe|Сокира
+itm_tutorial_battle_axe_pl|Сокири
+itm_tutorial_arrows|Стріли
+itm_tutorial_arrows_pl|Стріли
+itm_tutorial_bolts|Арбалетні болти
+itm_tutorial_bolts_pl|Арбалетні болти
+itm_tutorial_short_bow|Короткий лук
+itm_tutorial_short_bow_pl|Короткі луки
+itm_tutorial_crossbow|Арбалет
+itm_tutorial_crossbow_pl|Арбалети
+itm_tutorial_throwing_daggers|Метальні кинджали
+itm_tutorial_throwing_daggers_pl|Метальні кинджали
+itm_tutorial_saddle_horse|Верховий кінь
+itm_tutorial_saddle_horse_pl|Верхові коні
+itm_tutorial_shield|Каплеподібний щит
+itm_tutorial_shield_pl|Краплеподібні щити
+itm_tutorial_staff_no_attack|Посох
+itm_tutorial_staff_no_attack_pl|Посохи
+itm_tutorial_staff|Патериця
+itm_tutorial_staff_pl|Патериці
+itm_tutorial_sword|Меч
+itm_tutorial_sword_pl|Мечі
+itm_tutorial_axe|Сокира
+itm_tutorial_axe_pl|Сокири
+itm_tutorial_dagger|Кинджал
+itm_tutorial_dagger_pl|Кинджал
+itm_horse_meat|Конина
+itm_horse_meat_pl|Конина
+itm_practice_sword|Навчальний меч
+itm_practice_sword_pl|Навчальні мечі
+itm_heavy_practice_sword|Важкий навчальний меч
+itm_heavy_practice_sword_pl|Важкі навчальні мечі
+itm_practice_dagger|Навчальний кинджал
+itm_practice_dagger_pl|Навчальні кинджали
+itm_practice_axe|Навчальна сокира
+itm_practice_axe_pl|Навчальні сокири
+itm_arena_axe|Сокира
+itm_arena_axe_pl|Сокира
+itm_arena_sword|Меч
+itm_arena_sword_pl|Мечі
+itm_arena_sword_two_handed|Дворучний меч
+itm_arena_sword_two_handed_pl|Дворучні мечі
+itm_arena_lance|Спис
+itm_arena_lance_pl|Списи
+itm_practice_staff|Навчальний посох
+itm_practice_staff_pl|Навчальні палиці
+itm_practice_lance|Навчальна кавалерійська піка
+itm_practice_lance_pl|Навчальні кавалерійські піки
+itm_practice_shield|Навчальний щит
+itm_practice_shield_pl|Навчальні щити
+itm_practice_bow|Навчальний лук
+itm_practice_bow_pl|Навчальні луки
+itm_practice_crossbow|Навчальний арбалет
+itm_practice_crossbow_pl|Навчальний арбалет
+itm_practice_javelin|Навчальний дротик
+itm_practice_javelin_pl|Навчальні дротики
+itm_practice_javelin_melee|Навчальний дротик ближнього бою
+itm_practice_javelin_melee_pl|Навчальні дротики ближнього бою
+itm_practice_throwing_daggers|Метальний кинджал
+itm_practice_throwing_daggers_pl|Метальні кинджали
+itm_practice_throwing_daggers_100_amount|Метальний кинджал
+itm_practice_throwing_daggers_100_amount_pl|Метальні кинджали
+itm_practice_horse|Кінь для тренувань
+itm_practice_horse_pl|Коні для тренувань
+itm_practice_arrows|Навчальна стріла
+itm_practice_arrows_pl|Навчальні стріли
+itm_practice_bolts|Навчальний болт
+itm_practice_bolts_pl|Навчальні болти
+itm_practice_arrows_10_amount|Навчальна стріла
+itm_practice_arrows_10_amount_pl|Навчальні стріли
+itm_practice_arrows_100_amount|Навчальна стріла
+itm_practice_arrows_100_amount_pl|Навчальні стріли
+itm_practice_bolts_9_amount|Навчальні болти
+itm_practice_bolts_9_amount_pl|Навчальні болти
+itm_practice_boots|Навчальні чоботи
+itm_practice_boots_pl|Навчальні чоботи
+itm_red_tourney_armor|Червоний турнірний обладунок
+itm_red_tourney_armor_pl|Червоні турнірні обладунки
+itm_blue_tourney_armor|Синій турнірний обладунок
+itm_blue_tourney_armor_pl|Сині турнірні обладунки
+itm_green_tourney_armor|Зелений турнірний обладунок
+itm_green_tourney_armor_pl|Зелені турнірні обладунки
+itm_gold_tourney_armor|Золотий турнірний обладунок
+itm_gold_tourney_armor_pl|Золоті турнірні обладунки
+itm_red_tourney_helmet|Червоний турнірний шолом
+itm_red_tourney_helmet_pl|Червоні турнірні шоломи
+itm_blue_tourney_helmet|Синій турнірний шолом
+itm_blue_tourney_helmet_pl|Сині турнірні шоломи
+itm_green_tourney_helmet|Зелений турнірний шолом
+itm_green_tourney_helmet_pl|Зелені турнірні шоломи
+itm_gold_tourney_helmet|Золотий турнірний шолом
+itm_gold_tourney_helmet_pl|Золоті турнірні шоломи
+itm_arena_shield_red|Щит
+itm_arena_shield_red_pl|Щит
+itm_arena_shield_blue|Щит
+itm_arena_shield_blue_pl|Щит
+itm_arena_shield_green|Щит
+itm_arena_shield_green_pl|Щит
+itm_arena_shield_yellow|Щит
+itm_arena_shield_yellow_pl|Щит
+itm_arena_armor_white|Білий обладунок для арени
+itm_arena_armor_white_pl|Білі обладунки для арени
+itm_arena_armor_red|Червоний обладунок для арени
+itm_arena_armor_red_pl|Червоні обладунки для арени
+itm_arena_armor_blue|Синій обладунок для арени
+itm_arena_armor_blue_pl|Сині обладунки для арени
+itm_arena_armor_green|Зелений обладунок для арени
+itm_arena_armor_green_pl|Зелені обладунки для арени
+itm_arena_armor_yellow|Жовтий обладунок для арени
+itm_arena_armor_yellow_pl|Жовті обладунки для арени
+itm_arena_tunic_white|Біла туніка для арени
+itm_arena_tunic_white_pl|Білі туніки для арени
+itm_arena_tunic_red|Червона туніка для арени
+itm_arena_tunic_red_pl|Червоні туніки для арени
+itm_arena_tunic_blue|Синя туніка для арени
+itm_arena_tunic_blue_pl|Сині туніки для арени
+itm_arena_tunic_green|Зелена туніка для арени
+itm_arena_tunic_green_pl|Зелені туніки для арени
+itm_arena_tunic_yellow|Жовта туніка для арени
+itm_arena_tunic_yellow_pl|Жовті туніки для арени
+itm_arena_helmet_red|Червоний шолом для арени
+itm_arena_helmet_red_pl|Червоні шоломи для арени
+itm_arena_helmet_blue|Синій шолом для арени
+itm_arena_helmet_blue_pl|Сині шоломи для арени
+itm_arena_helmet_green|Зелений шолом для арени
+itm_arena_helmet_green_pl|Зелені шоломи для арени
+itm_arena_helmet_yellow|Жовтий шолом для арени
+itm_arena_helmet_yellow_pl|Жовті шоломи для арени
+itm_steppe_helmet_white|Білий шолом степовика
+itm_steppe_helmet_white_pl|Білі шоломи степовиків
+itm_steppe_helmet_red|Червоний шолом степовика
+itm_steppe_helmet_red_pl|Червоні шоломи степовиків
+itm_steppe_helmet_blue|Синій шолом степовика
+itm_steppe_helmet_blue_pl|Сині шоломи степовиків
+itm_steppe_helmet_green|Зелений шолом степовика
+itm_steppe_helmet_green_pl|Зелені шоломи степовиків
+itm_steppe_helmet_yellow|Жовтий шолом степовика
+itm_steppe_helmet_yellow_pl|Жовті шоломи степовиків
+itm_tourney_helm_white|Білий турнірний шолом
+itm_tourney_helm_white_pl|Білі турнірні шоломи
+itm_tourney_helm_red|Червоний турнірний шолом
+itm_tourney_helm_red_pl|Червоні турнірні шоломи
+itm_tourney_helm_blue|Синій турнірний шолом
+itm_tourney_helm_blue_pl|Сині турнірні шоломи
+itm_tourney_helm_green|Зелений турнірний шолом
+itm_tourney_helm_green_pl|Зелені турнірні шоломи
+itm_tourney_helm_yellow|Жовтий турнірний шолом
+itm_tourney_helm_yellow_pl|Жовті турнірні шоломи
+itm_arena_turban_red|Чалма для арени
+itm_arena_turban_red_pl|Чалми для арени
+itm_arena_turban_blue|Тюрбан для арени
+itm_arena_turban_blue_pl|Тюрбани для арени
+itm_arena_turban_green|Тюрбан для арени
+itm_arena_turban_green_pl|Тюрбани для арени
+itm_arena_turban_yellow|Чалма для арени
+itm_arena_turban_yellow_pl|Чалми для арени
+itm_book_tactics|Про військові справи
+itm_book_tactics_pl|Про військові справи
+itm_book_persuasion|Риторика до Гереннію
+itm_book_persuasion_pl|Риторика до Гереннію
+itm_book_leadership|Життєпис Великого Аліксена
+itm_book_leadership_pl|Життєпис Великого Аліксена
+itm_book_intelligence|Твори з логіки
+itm_book_intelligence_pl|Твори з логіки
+itm_book_trade|Трактат про цінності речей
+itm_book_trade_pl|Трактати про цінності речей
+itm_book_weapon_mastery|Про мистецтво фехтування
+itm_book_weapon_mastery_pl|Про мистецтво фехтування
+itm_book_engineering|Про науку механіки
+itm_book_engineering_pl|Про науку механіки
+itm_book_wound_treatment_reference|Книга зцілення
+itm_book_wound_treatment_reference_pl|Книга зцілення
+itm_book_training_reference|Про роботу зі зброєю
+itm_book_training_reference_pl|Про роботу зі зброєю
+itm_book_surgery_reference|Велика книга хірургії
+itm_book_surgery_reference_pl|Велика книга хірургії
+itm_spice|Спеції
+itm_spice_pl|Спеції
+itm_salt|Сіль
+itm_salt_pl|Сіль
+itm_oil|Оливкова олія
+itm_oil_pl|Оливкова олія
+itm_pottery|Глиняне начиння
+itm_pottery_pl|Глиняне начиння
+itm_raw_flax|В'язка льону
+itm_raw_flax_pl|Снопи льону
+itm_linen|Полотно
+itm_linen_pl|Полотна
+itm_wool|Шерсть
+itm_wool_pl|Шерсть
+itm_wool_cloth|Вовняна тканина
+itm_wool_cloth_pl|Вовняні тканини
+itm_raw_silk|Шовк-сирець
+itm_raw_silk_pl|Шовк-сирець
+itm_raw_dyes|Фарба
+itm_raw_dyes_pl|Фарби
+itm_velvet|Оксамит
+itm_velvet_pl|Оксамит
+itm_iron|Залізо
+itm_iron_pl|Залізо
+itm_tools|Інструмент
+itm_tools_pl|Інструменти
+itm_raw_leather|Шкура
+itm_raw_leather_pl|Шкури
+itm_leatherwork|Виріб із шкіри
+itm_leatherwork_pl|Вироби з шкіри
+itm_raw_date_fruit|Фінік
+itm_raw_date_fruit_pl|Фініки
+itm_furs|Хутро
+itm_furs_pl|Хутра
+itm_wine|Вино
+itm_wine_pl|Вино
+itm_ale|Ель
+itm_ale_pl|Ель
+itm_smoked_fish|Копчена риба
+itm_smoked_fish_pl|Копчена риба
+itm_cheese|Сир
+itm_cheese_pl|Сир
+itm_honey|Мед
+itm_honey_pl|Мед
+itm_sausages|Ковбаска
+itm_sausages_pl|Ковбаски
+itm_cabbages|Капуста
+itm_cabbages_pl|Капуста
+itm_dried_meat|Сушене м'ясо
+itm_dried_meat_pl|Сушене м'ясо
+itm_apples|Фрукти
+itm_apples_pl|Фрукти
+itm_raw_grapes|Виноград
+itm_raw_grapes_pl|Виноград
+itm_raw_olives|Оливки
+itm_raw_olives_pl|Оливки
+itm_grain|Зерно
+itm_grain_pl|Зерно
+itm_cattle_meat|Яловичина
+itm_cattle_meat_pl|Яловичина
+itm_bread|Хліб
+itm_bread_pl|Хліб
+itm_chicken|Курча
+itm_chicken_pl|Курчата
+itm_pork|Свинина
+itm_pork_pl|Свинина
+itm_butter|Вершки
+itm_butter_pl|Вершки
+itm_siege_supply|Припаси
+itm_siege_supply_pl|Припаси
+itm_quest_wine|Вино
+itm_quest_wine_pl|Вино
+itm_quest_ale|Ель
+itm_quest_ale_pl|Ель
+itm_sumpter_horse|В'ючний кінь
+itm_sumpter_horse_pl|В'ючні коні
+itm_saddle_horse|Верховий кінь
+itm_saddle_horse_pl|Верхові коні
+itm_steppe_horse|Степовий кінь
+itm_steppe_horse_pl|Степові коні
+itm_arabian_horse_a|Пустельний кінь
+itm_arabian_horse_a_pl|Пустельні коні
+itm_courser|Скаковий кінь
+itm_courser_pl|Скакові коні
+itm_arabian_horse_b|Саранідський кінь
+itm_arabian_horse_b_pl|Саранідські коні
+itm_hunter|Гюнтер
+itm_hunter_pl|Гюнтер
+itm_warhorse|Бойовий кінь
+itm_warhorse_pl|Бойові коні
+itm_charger|Бойовий кінь
+itm_charger_pl|Бойові коні
+itm_arrows|Стріла
+itm_arrows_pl|Стріли
+itm_khergit_arrows|Хергітська стріла
+itm_khergit_arrows_pl|Хергітські стріли
+itm_barbed_arrows|Зазубрена стріла
+itm_barbed_arrows_pl|Зазубрені стріли
+itm_bodkin_arrows|Шилоподібна стріла
+itm_bodkin_arrows_pl|Шилоподібні стріли
+itm_bolts|Болт
+itm_bolts_pl|Болти
+itm_steel_bolts|Сталевий болт
+itm_steel_bolts_pl|Сталеві болти
+itm_cartridges|Набій
+itm_cartridges_pl|Набої
+itm_pilgrim_disguise|Одіяння паломника
+itm_pilgrim_disguise_pl|Шати паломників
+itm_pilgrim_hood|Каптур паломника
+itm_pilgrim_hood_pl|Каптури паломників
+itm_leather_gloves|Шкіряні рукавички
+itm_leather_gloves_pl|Шкіряні рукавички
+itm_mail_mittens|Кольчужні рукавички
+itm_mail_mittens_pl|Кольчужні рукавички
+itm_scale_gauntlets|Лускаті рукавички
+itm_scale_gauntlets_pl|Лускаті рукавички
+itm_lamellar_gauntlets|Ламеллярні рукавички
+itm_lamellar_gauntlets_pl|Ламеллярні рукавички
+itm_gauntlets|Латні рукавиці
+itm_gauntlets_pl|Латні рукавиці
+itm_wrapping_boots|Обмотки
+itm_wrapping_boots_pl|Обмотки
+itm_woolen_hose|Вовняні лосини
+itm_woolen_hose_pl|Вовняні лосини
+itm_blue_hose|Сині рейтузи
+itm_blue_hose_pl|Сині рейтузи
+itm_hunter_boots|Мисливські чоботи
+itm_hunter_boots_pl|Мисливські чоботи
+itm_hide_boots|Чоботи з товстої шкіри
+itm_hide_boots_pl|Чоботи з товстої шкіри
+itm_ankle_boots|Черевики
+itm_ankle_boots_pl|Черевики
+itm_nomad_boots|Чоботи кочівника
+itm_nomad_boots_pl|Чоботи кочівника
+itm_leather_boots|Шкіряні чоботи
+itm_leather_boots_pl|Шкіряні чоботи
+itm_splinted_leather_greaves|Ламінарні шкіряні наголінники
+itm_splinted_leather_greaves_pl|Ламінарні шкіряні наголінники
+itm_mail_chausses|Кільчасті панчохи
+itm_mail_chausses_pl|Кільчасті панчохи
+itm_splinted_greaves|Ламінарні наголінники
+itm_splinted_greaves_pl|Ламінарні наголінники
+itm_mail_boots|Кольчужні чоботи
+itm_mail_boots_pl|Кольчужні чоботи
+itm_iron_greaves|Сталеві наголінники
+itm_iron_greaves_pl|Сталеві наголінники
+itm_black_greaves|Чорні наголінники
+itm_black_greaves_pl|Чорні наголінники
+itm_khergit_leather_boots|Хергітські шкіряні чоботи
+itm_khergit_leather_boots_pl|Хергітські шкіряні чоботи
+itm_sarranid_boots_a|Саранідські черевики
+itm_sarranid_boots_a_pl|Саранідські черевики
+itm_sarranid_boots_b|Саранідські шкіряні чоботи
+itm_sarranid_boots_b_pl|Саранідські шкіряні чоботи
+itm_sarranid_boots_c|Пластинчасті чоботи
+itm_sarranid_boots_c_pl|Пластинчасті чоботи
+itm_sarranid_boots_d|Саранідські кольчужні чоботи
+itm_sarranid_boots_d_pl|Саранідські кольчужні чоботи
+itm_sarranid_head_cloth|Хустка благородної дами
+itm_sarranid_head_cloth_pl|Хустки благородної дами
+itm_sarranid_head_cloth_b|Хустка благородної дами
+itm_sarranid_head_cloth_b_pl|Хустки благородної дами
+itm_sarranid_felt_head_cloth|Хустка
+itm_sarranid_felt_head_cloth_pl|Хустки
+itm_sarranid_felt_head_cloth_b|Хустка
+itm_sarranid_felt_head_cloth_b_pl|Хустки
+itm_lady_dress_ruby|Сукня благородної дами
+itm_lady_dress_ruby_pl|Сукні благородної дами
+itm_lady_dress_green|Сукня благородної дами
+itm_lady_dress_green_pl|Сукні благородної дами
+itm_lady_dress_blue|Сукня благородної дами
+itm_lady_dress_blue_pl|Сукні благородної дами
+itm_red_dress|Червоне плаття
+itm_red_dress_pl|Червоні сукні
+itm_brown_dress|Коричневе плаття
+itm_brown_dress_pl|Коричневі сукні
+itm_green_dress|Зелене плаття
+itm_green_dress_pl|Зелені сукні
+itm_khergit_lady_dress|Хергітське плаття благородної дами
+itm_khergit_lady_dress_pl|Хергітські сукні благородної дами
+itm_khergit_lady_dress_b|Хергітське шкіряне плаття благородної дами
+itm_khergit_lady_dress_b_pl|Хергітські шкіряні плаття благородної дами
+itm_sarranid_lady_dress|Саранідське плаття благородної дами
+itm_sarranid_lady_dress_pl|Саранідські сукні благородної дами
+itm_sarranid_lady_dress_b|Саранідське плаття благородної дами
+itm_sarranid_lady_dress_b_pl|Саранідські сукні благородної дами
+itm_sarranid_common_dress|Саранідське плаття
+itm_sarranid_common_dress_pl|Саранідські сукні
+itm_sarranid_common_dress_b|Саранідське плаття
+itm_sarranid_common_dress_b_pl|Саранідські сукні
+itm_courtly_outfit|Придворне плаття
+itm_courtly_outfit_pl|Придворні сукні
+itm_nobleman_outfit|Сукня знатної особи
+itm_nobleman_outfit_pl|Сукні знатних осіб
+itm_nomad_armor|Обладунок кочівника
+itm_nomad_armor_pl|Обладунки кочівників
+itm_khergit_armor|Хергітський обладунок
+itm_khergit_armor_pl|Хергітські обладунки
+itm_leather_jacket|Дублет
+itm_leather_jacket_pl|Дублети
+itm_rawhide_coat|Куяк із сиром'ятної шкіри
+itm_rawhide_coat_pl|Куяки з сиром'ятної шкіри
+itm_leather_armor|Шкіряний обладунок
+itm_leather_armor_pl|Шкіряні обладунки
+itm_fur_coat|Каптан на хутрі
+itm_fur_coat_pl|Каптани на хутрі
+itm_coat|Куяк
+itm_coat_pl|Куяки
+itm_leather_coat|Шкіряний куяк
+itm_leather_coat_pl|Шкіряні куяки
+itm_mail_coat|Кольчуга
+itm_mail_coat_pl|Кольчуги
+itm_long_mail_coat|Довга кольчуга
+itm_long_mail_coat_pl|Довгі кольчуги
+itm_sleeveless_mail_coat|Безрукавна кольчуга
+itm_sleeveless_mail_coat_pl|Безрукавні кольчуги
+itm_sleeveless_coat|Безрукавний куяк
+itm_sleeveless_coat_pl|Безрукавні куяки
+itm_hide_coat|Куяк із грубої шкіри
+itm_hide_coat_pl|Куяк із грубої шкіри
+itm_merchant_outfit|Костюм торговця
+itm_merchant_outfit_pl|Костюми торговців
+itm_homespun_dress|Домоткане плаття
+itm_homespun_dress_pl|Домоткані сукні
+itm_thick_coat|Посилений куяк
+itm_thick_coat_pl|Посилені куяки
+itm_coat_with_cape|Куяк з наплічниками
+itm_coat_with_cape_pl|Куяки з наплічниками
+itm_steppe_outfit|Шати степовика
+itm_steppe_outfit_pl|Шати степовиків
+itm_nordic_outfit|Нордський наряд
+itm_nordic_outfit_pl|Нордські вбрання
+itm_nordic_armor|Нордський обладунок
+itm_nordic_armor_pl|Нордські обладунки
+itm_hide_armor|Обладунок із жорсткої шкіри
+itm_hide_armor_pl|Обладунки з жорсткої шкіри
+itm_cloaked_tunic|Туніка з каптуром
+itm_cloaked_tunic_pl|Куртки з капюшоном
+itm_sleeveless_tunic|Туніка-безрукавка
+itm_sleeveless_tunic_pl|Туніки-безрукавки
+itm_sleeveless_leather_tunic|Шкіряна туніка-безрукавка
+itm_sleeveless_leather_tunic_pl|Шкіряні туніки-безрукавки
+itm_linen_shirt|Лляна сорочка
+itm_linen_shirt_pl|Лляні сорочки
+itm_wool_coat|Вовняна накидка
+itm_wool_coat_pl|Вовняні накидки
+itm_dress|Сукні
+itm_dress_pl|Сукні
+itm_blue_dress|Синє плаття
+itm_blue_dress_pl|Сині сукні
+itm_peasant_dress|Селянське плаття
+itm_peasant_dress_pl|Селянські сукні
+itm_woolen_dress|Вовняне плаття
+itm_woolen_dress_pl|Вовняні сукні
+itm_shirt|Сорочка
+itm_shirt_pl|Сорочки
+itm_linen_tunic|Полотняна туніка
+itm_linen_tunic_pl|Полотняні туніки
+itm_short_tunic|Зелена туніка
+itm_short_tunic_pl|Зелені туніки
+itm_red_shirt|Червона сорочка
+itm_red_shirt_pl|Червоні сорочки
+itm_red_tunic|Червона туніка
+itm_red_tunic_pl|Червоні туніки
+itm_green_tunic|Зелена туніка
+itm_green_tunic_pl|Зелені туніки
+itm_blue_tunic|Синя туніка
+itm_blue_tunic_pl|Сині туніки
+itm_robe|Роба
+itm_robe_pl|Роби
+itm_coarse_tunic|Туніка з вістою
+itm_coarse_tunic_pl|Туніки з вестами
+itm_leather_apron|Шкіряний фартух
+itm_leather_apron_pl|Шкіряні фартухи
+itm_tabard|Табард
+itm_tabard_pl|Табарди
+itm_leather_vest|Безрукавная кожанка
+itm_leather_vest_pl|Безрукавні шкірянки
+itm_steppe_armor|Обладунок степняка
+itm_steppe_armor_pl|Обладунки степовиків
+itm_gambeson|Гамбезон
+itm_gambeson_pl|Гамбезони
+itm_blue_gambeson|Синій гамбезон
+itm_blue_gambeson_pl|Сині гамбезони
+itm_red_gambeson|Червоний гамбезон
+itm_red_gambeson_pl|Червоні гамбезони
+itm_padded_cloth|Акетон
+itm_padded_cloth_pl|Акетони
+itm_aketon_green|Стеганка
+itm_aketon_green_pl|Стеганка
+itm_leather_jerkin|Шкіряний коле
+itm_leather_jerkin_pl|Шкіряні колети
+itm_nomad_vest|Халат
+itm_nomad_vest_pl|Халати
+itm_ragged_outfit|Лахміття
+itm_ragged_outfit_pl|Лахміття
+itm_padded_leather|Шкіряна стеганка
+itm_padded_leather_pl|Шкіряні стеганки
+itm_tribal_warrior_outfit|Обладунок з необробленої шкіри
+itm_tribal_warrior_outfit_pl|Обладунки з необробленої шкіри
+itm_nomad_robe|Роба степняка
+itm_nomad_robe_pl|Роби степняка
+itm_studded_leather_coat|Клепані куяк
+itm_studded_leather_coat_pl|Клепані куяки
+itm_byrnie|Кольчуга з короткими рукавами
+itm_byrnie_pl|Кольчуги з короткими рукавами
+itm_haubergeon|Короткий хауберк
+itm_haubergeon_pl|Короткі хауберки
+itm_lamellar_vest|Ламеллярний жилет
+itm_lamellar_vest_pl|Ламеллярні жилети
+itm_lamellar_vest_khergit|Хергітський ламеллярний жилет
+itm_lamellar_vest_khergit_pl|Хергітські ламеллярні жилети
+itm_mail_shirt|Кольчужна сорочка
+itm_mail_shirt_pl|Кольчужні сорочки
+itm_mail_hauberk|Хавберк
+itm_mail_hauberk_pl|Хавберки
+itm_mail_with_surcoat|Кольчуга з сюрко
+itm_mail_with_surcoat_pl|Кольчуги з сюрко
+itm_surcoat_over_mail|Сюрко поверх кольчуги
+itm_surcoat_over_mail_pl|Сюрко поверх кольчуги
+itm_brigandine_red|Бригантина
+itm_brigandine_red_pl|Бригантина
+itm_lamellar_armor|Ламеллярний обладунок
+itm_lamellar_armor_pl|Ламеллярні обладунки
+itm_scale_armor|Лускатий обладунок
+itm_scale_armor_pl|Лускаті обладунки
+itm_banded_armor|Клепані пурпуєни
+itm_banded_armor_pl|Клепані пурпуєни
+itm_cuir_bouilli|Шкіряна кираса
+itm_cuir_bouilli_pl|Шкіряна кираса
+itm_coat_of_plates|Пластинчастий обладунок
+itm_coat_of_plates_pl|Пластинчасті обладунки
+itm_coat_of_plates_red|Пластинчастий обладунок
+itm_coat_of_plates_red_pl|Пластинчастий обладунок
+itm_plate_armor|Панцерний обладунок
+itm_plate_armor_pl|Латні обладунки
+itm_black_armor|Чорний обладунок
+itm_black_armor_pl|Чорні обладунки
+itm_pelt_coat|Шкіряний обладунок
+itm_pelt_coat_pl|Шкіряні обладунки
+itm_khergit_elite_armor|Хергітський елітний обладунок
+itm_khergit_elite_armor_pl|Хергітські елітні обладунки
+itm_vaegir_elite_armor|Веїрський елітний обладунок
+itm_vaegir_elite_armor_pl|Веїрські елітні обладунки
+itm_sarranid_elite_armor|Саранідський елітний обладунок
+itm_sarranid_elite_armor_pl|Саранідські елітні обладунки
+itm_sarranid_dress_a|Сукні
+itm_sarranid_dress_a_pl|Сукні
+itm_sarranid_dress_b|Сукні
+itm_sarranid_dress_b_pl|Сукні
+itm_sarranid_cloth_robe|Зношена роба
+itm_sarranid_cloth_robe_pl|Зношені роби
+itm_sarranid_cloth_robe_b|Зношена роба
+itm_sarranid_cloth_robe_b_pl|Зношені роби
+itm_skirmisher_armor|Обладунок стрілка
+itm_skirmisher_armor_pl|Обладунки стрільців
+itm_archers_vest|Латований жилет лучника
+itm_archers_vest_pl|Латовані жилети лучників
+itm_sarranid_leather_armor|Саранідський шкіряний обладунок
+itm_sarranid_leather_armor_pl|Саранідські шкіряні обладунки
+itm_sarranid_cavalry_robe|Кавалерійська роба
+itm_sarranid_cavalry_robe_pl|Кавалерійські роби
+itm_arabian_armor_b|Обладунок саранідської варти
+itm_arabian_armor_b_pl|Обладунки саранідської варти
+itm_sarranid_mail_shirt|Саранідська кольчужна сорочка
+itm_sarranid_mail_shirt_pl|Саранідські кольчужні сорочки
+itm_mamluke_mail|Кольчуга мамелюка
+itm_mamluke_mail_pl|Кольчуги мамелюків
+itm_burlap_tunic|Джутова туніка
+itm_burlap_tunic_pl|Джутові туніки
+itm_heraldic_mail_with_surcoat|Геральдична кольчуга з сюрко
+itm_heraldic_mail_with_surcoat_pl|Геральдичні кольчуги з сюрко
+itm_heraldic_mail_with_tunic|Геральдична кольчуга
+itm_heraldic_mail_with_tunic_pl|Геральдичні кольчуги
+itm_heraldic_mail_with_tunic_b|Геральдична кольчуга
+itm_heraldic_mail_with_tunic_b_pl|Геральдичні кольчуги
+itm_heraldic_mail_with_tabard|Геральдична кольчуга з табардом
+itm_heraldic_mail_with_tabard_pl|Геральдичні кольчуги з табардами
+itm_turret_hat_ruby|Капелюшок-таблетка
+itm_turret_hat_ruby_pl|Шапочки-таблетки
+itm_turret_hat_blue|Капелюшок-таблетка
+itm_turret_hat_blue_pl|Шапочки-таблетки
+itm_turret_hat_green|Барбетта
+itm_turret_hat_green_pl|Барбетта
+itm_head_wrappings|Пов'язка
+itm_head_wrappings_pl|Пов'язки
+itm_court_hat|Шапочка-таблетка
+itm_court_hat_pl|Шапочки-таблетки
+itm_wimple_a|Вимпл
+itm_wimple_a_pl|Вимпли
+itm_wimple_with_veil|Вимпл з вуаллю
+itm_wimple_with_veil_pl|Вимпли з вуаллю
+itm_straw_hat|Солом'яний капелюх
+itm_straw_hat_pl|Солом'яні капелюхи
+itm_common_hood|Каптур
+itm_common_hood_pl|Каптури
+itm_hood_b|Каптур
+itm_hood_b_pl|Каптури
+itm_hood_c|Каптур
+itm_hood_c_pl|Каптури
+itm_hood_d|Каптур
+itm_hood_d_pl|Каптури
+itm_headcloth|Хустка
+itm_headcloth_pl|Хустки
+itm_woolen_hood|Вовняний каптур
+itm_woolen_hood_pl|Вовняні каптури
+itm_arming_cap|Підшоломник
+itm_arming_cap_pl|Підшоломники
+itm_fur_hat|Хутряна шапка
+itm_fur_hat_pl|Хутряні шапки
+itm_nomad_cap|Шапка кочівника
+itm_nomad_cap_pl|Шапки кочовників
+itm_nomad_cap_b|Шапка кочівника
+itm_nomad_cap_b_pl|Шапка кочівника
+itm_steppe_cap|Шогирме
+itm_steppe_cap_pl|Шогирме
+itm_padded_coif|Стьобаний підшоломник
+itm_padded_coif_pl|Стьобані підшоломники
+itm_woolen_cap|Вовняна шапочка
+itm_woolen_cap_pl|Вовняні шапочки
+itm_felt_hat|Фетровий капелюх
+itm_felt_hat_pl|Фетрові капелюхи
+itm_felt_hat_b|Фетровий капелюх
+itm_felt_hat_b_pl|Фетровий капелюх
+itm_leather_cap|Шкіряна шапочка
+itm_leather_cap_pl|Шкіряні шапочки
+itm_female_hood|Жіночий капюшон
+itm_female_hood_pl|Жіночі капюшони
+itm_leather_steppe_cap_a|Шапочка степняка
+itm_leather_steppe_cap_a_pl|Шапочки степовиків
+itm_leather_steppe_cap_b|Шапочка степняка
+itm_leather_steppe_cap_b_pl|Шапочки степовиків
+itm_leather_steppe_cap_c|Шапочка степняка
+itm_leather_steppe_cap_c_pl|Шапочки степовиків
+itm_leather_warrior_cap|Шкіряна шапочка воїна
+itm_leather_warrior_cap_pl|Шкіряні шапочки воїнів
+itm_skullcap|Шкіряний шолом
+itm_skullcap_pl|Шкіряні шоломи
+itm_mail_coif|Кольчужний капюшон
+itm_mail_coif_pl|Кольчужні капюшони
+itm_footman_helmet|Шишак
+itm_footman_helmet_pl|Шишаки
+itm_nasal_helmet|Шолом з наносником
+itm_nasal_helmet_pl|Шоломи з наносниками
+itm_norman_helmet|Норманський шолом
+itm_norman_helmet_pl|Норманські шоломи
+itm_segmented_helmet|Сегментований шолом
+itm_segmented_helmet_pl|Сегментовані шоломи
+itm_helmet_with_neckguard|Шолом із бармицею
+itm_helmet_with_neckguard_pl|Шоломи з бармицями
+itm_flat_topped_helmet|Топгельм
+itm_flat_topped_helmet_pl|Топгельми
+itm_kettle_hat|Шапель
+itm_kettle_hat_pl|Шапель
+itm_spiked_helmet|Колючий шолом
+itm_spiked_helmet_pl|Колючі шоломи
+itm_nordic_helmet|Нордський шолом
+itm_nordic_helmet_pl|Нордські шоломи
+itm_khergit_lady_hat|Хергітський дамський капелюшок
+itm_khergit_lady_hat_pl|Хергітські дамські капелюшки
+itm_khergit_lady_hat_b|Хергітська шкіряна жіноча шапка
+itm_khergit_lady_hat_b_pl|Хергітські шкіряні жіночі шапки
+itm_sarranid_felt_hat|Саранідський фетровий капелюх
+itm_sarranid_felt_hat_pl|Саранідські фетрові капелюхи
+itm_turban|Тюрбан
+itm_turban_pl|Тюрбани
+itm_desert_turban|Тюрбан пустельника
+itm_desert_turban_pl|Тюрбани пустинників
+itm_sarranid_warrior_cap|Саранідська шапочка воїна
+itm_sarranid_warrior_cap_pl|Саранідські шапочки воїнів
+itm_sarranid_horseman_helmet|Шолом вершника
+itm_sarranid_horseman_helmet_pl|Шоломи вершників
+itm_sarranid_helmet1|Саранідський шолом-куфія
+itm_sarranid_helmet1_pl|Саранідскі шоломи-куфії
+itm_sarranid_mail_coif|Саранідський кольчужний капюшон
+itm_sarranid_mail_coif_pl|Саранідські кольчужні капюшони
+itm_sarranid_veiled_helmet|Саранідський закритий шолом
+itm_sarranid_veiled_helmet_pl|Саранідські закриті шоломи
+itm_nordic_archer_helmet|Нордський шкіряний шолом
+itm_nordic_archer_helmet_pl|Нордські шкіряні шоломи
+itm_nordic_veteran_archer_helmet|Нордський шкіряний шолом
+itm_nordic_veteran_archer_helmet_pl|Нордські шкіряні шоломи
+itm_nordic_footman_helmet|Нордський шолом піхотинця
+itm_nordic_footman_helmet_pl|Нордські шоломи піхотинців
+itm_nordic_fighter_helmet|Нордський шолом воїна
+itm_nordic_fighter_helmet_pl|Нордські шоломи воїнів
+itm_nordic_huscarl_helmet|Нордський шолом хускарла
+itm_nordic_huscarl_helmet_pl|Нордські шоломи хускарлів
+itm_nordic_warlord_helmet|Нордський шолом воєначальника
+itm_nordic_warlord_helmet_pl|Нордскі шоломи полководців
+itm_vaegir_fur_cap|Шапочка з хутром
+itm_vaegir_fur_cap_pl|Шапочки з хутром
+itm_vaegir_fur_helmet|Вегірський шолом
+itm_vaegir_fur_helmet_pl|Вегірські шоломи
+itm_vaegir_spiked_helmet|Гостроверха шапка
+itm_vaegir_spiked_helmet_pl|Гостроверхі шапки
+itm_vaegir_lamellar_helmet|Шолом з ламелярною бармицею
+itm_vaegir_lamellar_helmet_pl|Шоломи з ламелярною бармицею
+itm_vaegir_noble_helmet|Шолом вегірської знаті
+itm_vaegir_noble_helmet_pl|Шоломи вегірської знаті
+itm_vaegir_war_helmet|Вегірський солдатський шолом
+itm_vaegir_war_helmet_pl|Вегірські солдатські шоломи
+itm_vaegir_mask|Вегірська бойова маска
+itm_vaegir_mask_pl|Вегірські бойові маски
+itm_bascinet|Бацинет
+itm_bascinet_pl|Бацинети
+itm_bascinet_2|Бацинет із забралом
+itm_bascinet_2_pl|Бацинети із забралами
+itm_bascinet_3|Бацинет із наносником
+itm_bascinet_3_pl|Бацинети з наносниками
+itm_guard_helmet|Шолом вартового
+itm_guard_helmet_pl|Шоломи вартових
+itm_black_helmet|Чорний шолом
+itm_black_helmet_pl|Чорні шоломи
+itm_full_helm|Повний шолом
+itm_full_helm_pl|Повні шоломи
+itm_great_helmet|Закритий шолом
+itm_great_helmet_pl|Закриті шоломи
+itm_winged_great_helmet|Крилатий закритий шолом
+itm_winged_great_helmet_pl|Крилаті закриті шоломи
+itm_wooden_stick|Дерев'яна палиця
+itm_wooden_stick_pl|Дерев'яні палиці
+itm_cudgel|Дубина
+itm_cudgel_pl|Дубини
+itm_hammer|Молот
+itm_hammer_pl|Молоти
+itm_club|Палиця
+itm_club_pl|Палиці
+itm_winged_mace|Шестопер
+itm_winged_mace_pl|Перначі
+itm_spiked_mace|Булава
+itm_spiked_mace_pl|Булави
+itm_military_hammer|Чекан
+itm_military_hammer_pl|Чекани
+itm_maul|Булава
+itm_maul_pl|Булави
+itm_sledgehammer|Ковальський молот
+itm_sledgehammer_pl|Ковальські молоти
+itm_warhammer|Бойовий молот
+itm_warhammer_pl|Бойові молоти
+itm_pickaxe|Кирка
+itm_pickaxe_pl|Кирки
+itm_spiked_club|Важкий парнач
+itm_spiked_club_pl|Важкі перначі
+itm_fighting_pick|Бойової клевець
+itm_fighting_pick_pl|Бойові клевці
+itm_military_pick|Клевець
+itm_military_pick_pl|Клевець
+itm_morningstar|Моргенштерн
+itm_morningstar_pl|Моргенштерни
+itm_sickle|Серп
+itm_sickle_pl|Серпи
+itm_cleaver|Сікач
+itm_cleaver_pl|Сікачі
+itm_knife|Ніж
+itm_knife_pl|Ножі
+itm_butchering_knife|Ніж м'ясника
+itm_butchering_knife_pl|Ніж м'ясника
+itm_dagger|Кинджал
+itm_dagger_pl|Кинджали
+itm_falchion|Фальшіон
+itm_falchion_pl|Коротка крива шабля
+itm_scimitar|Ятаган
+itm_scimitar_pl|Ятагани
+itm_scimitar_b|Елітний ятаган
+itm_scimitar_b_pl|Елітні ятагани
+itm_arabian_sword_a|Саранідський меч
+itm_arabian_sword_a_pl|Саранідські мечі
+itm_arabian_sword_b|Саранідський одноручний меч
+itm_arabian_sword_b_pl|Саранідські одноручні мечі
+itm_sarranid_cavalry_sword|Саранідський кавалерійський меч
+itm_sarranid_cavalry_sword_pl|Саранідські кавалерійські мечі
+itm_arabian_sword_d|Меч саранідської варти
+itm_arabian_sword_d_pl|Мечі саранідської варти
+itm_great_sword|Великий меч
+itm_great_sword_pl|Великі мечі
+itm_sword_of_war|Еспадон
+itm_sword_of_war_pl|Еспадони
+itm_hatchet|Топірець
+itm_hatchet_pl|Топірці
+itm_hand_axe|Коротка сокира
+itm_hand_axe_pl|Короткі сокири
+itm_fighting_axe|Бойова сокира
+itm_fighting_axe_pl|Бойові сокири
+itm_axe|Колун
+itm_axe_pl|Колуни
+itm_voulge|Велика Сокира
+itm_voulge_pl|Великі Сокири
+itm_battle_axe|Сокира
+itm_battle_axe_pl|Сокири
+itm_war_axe|Солдатська сокира
+itm_war_axe_pl|Солдатські сокири
+itm_sword_two_handed_b|Дворучний меч
+itm_sword_two_handed_b_pl|Дворучні мечі
+itm_sword_two_handed_a|Великий дворучний меч
+itm_sword_two_handed_a_pl|Великі дворучні мечі
+itm_khergit_sword_two_handed_a|Дворучна шабля
+itm_khergit_sword_two_handed_a_pl|Дворучні шаблі
+itm_khergit_sword_two_handed_b|Дворучна шабля
+itm_khergit_sword_two_handed_b_pl|Дворучні шаблі
+itm_two_handed_cleaver|Військовий тесак
+itm_two_handed_cleaver_pl|Військові тесаки
+itm_military_cleaver_b|Тесак солдата
+itm_military_cleaver_b_pl|Тесаки солдата
+itm_military_cleaver_c|Бойовий тесак
+itm_military_cleaver_c_pl|Бойові тесаки
+itm_military_sickle_a|Бойовий серп
+itm_military_sickle_a_pl|Бойові серпи
+itm_bastard_sword_a|Меч-півторак
+itm_bastard_sword_a_pl|Мечі-півтораки
+itm_bastard_sword_b|Важкий меч-півторак
+itm_bastard_sword_b_pl|Важкі мечі-півтораки
+itm_one_handed_war_axe_a|Однорічна солдатська сокира
+itm_one_handed_war_axe_a_pl|Одноручні солдатські сокири
+itm_one_handed_battle_axe_a|Дворучна сокира
+itm_one_handed_battle_axe_a_pl|Одноручні сокири
+itm_one_handed_war_axe_b|Одноручна солдатська сокира
+itm_one_handed_war_axe_b_pl|Одноручні солдатські сокири
+itm_one_handed_battle_axe_b|Дворучна сокира
+itm_one_handed_battle_axe_b_pl|Одноручні сокири
+itm_one_handed_battle_axe_c|Дворучна сокира
+itm_one_handed_battle_axe_c_pl|Одноручні сокири
+itm_two_handed_axe|Дворучна сокира
+itm_two_handed_axe_pl|Плоскі сокири
+itm_two_handed_battle_axe_2|Дворучна солдатський сокира
+itm_two_handed_battle_axe_2_pl|Дворучні солдатські сокири
+itm_shortened_voulge|Вкорочена алебарда
+itm_shortened_voulge_pl|Вкорочені алебарди
+itm_great_axe|Велика сокира
+itm_great_axe_pl|Великі сокири
+itm_long_axe|Довга сокира
+itm_long_axe_pl|Довгі сокири
+itm_long_axe_alt|Довга сокира
+itm_long_axe_alt_pl|Довгі сокири
+itm_long_axe_b|Довга бойова сокира
+itm_long_axe_b_pl|Довгі бойові сокири
+itm_long_axe_b_alt|Довга бойова сокира
+itm_long_axe_b_alt_pl|Довгі бойові сокири
+itm_long_axe_c|Сокира берсерка
+itm_long_axe_c_pl|Сокира берсерка
+itm_long_axe_c_alt|Сокира берсерка
+itm_long_axe_c_alt_pl|Сокира берсерка
+itm_bardiche|Бердиш
+itm_bardiche_pl|Бердиші
+itm_great_bardiche|Великий бердиш
+itm_great_bardiche_pl|Великі бердиші
+itm_long_bardiche|Довгий бердиш
+itm_long_bardiche_pl|Довгі бердиші
+itm_great_long_bardiche|Великий довгий бердиш
+itm_great_long_bardiche_pl|Великі довгі бердиші
+itm_hafted_blade_b|Совня
+itm_hafted_blade_b_pl|Совні
+itm_hafted_blade_a|Совня
+itm_hafted_blade_a_pl|Совні
+itm_shortened_military_scythe|Вкорочена бойова коса
+itm_shortened_military_scythe_pl|Вкорочені бойові коси
+itm_sword_medieval_a|Меч
+itm_sword_medieval_a_pl|Мечі
+itm_sword_medieval_b|Меч
+itm_sword_medieval_b_pl|Мечі
+itm_sword_medieval_b_small|Короткий меч
+itm_sword_medieval_b_small_pl|Короткі мечі
+itm_sword_medieval_c|Одноручний меч
+itm_sword_medieval_c_pl|Одноручні мечі
+itm_sword_medieval_c_small|Короткий одноручний меч
+itm_sword_medieval_c_small_pl|Короткі одноручні мечі
+itm_sword_medieval_c_long|Одноручний меч
+itm_sword_medieval_c_long_pl|Одноручний меч
+itm_sword_medieval_d_long|Середньовічний довгий меч
+itm_sword_medieval_d_long_pl|Середньовічні довгі мечі
+itm_sword_viking_1|Нордський меч
+itm_sword_viking_1_pl|Нордські мечі
+itm_sword_viking_2|Нордський меч
+itm_sword_viking_2_pl|Нордські мечі
+itm_sword_viking_2_small|Короткий Нордський меч
+itm_sword_viking_2_small_pl|Короткі Нордські мечі
+itm_sword_viking_3|Нордський меч
+itm_sword_viking_3_pl|Нордські мечі
+itm_sword_viking_3_small|Короткий меч Нордський
+itm_sword_viking_3_small_pl|Короткі Нордські мечі
+itm_sword_khergit_1|Палаш
+itm_sword_khergit_1_pl|Палаші
+itm_sword_khergit_2|Шабля
+itm_sword_khergit_2_pl|Шаблі
+itm_sword_khergit_3|Шабля
+itm_sword_khergit_3_pl|Шаблі
+itm_sword_khergit_4|Важка шабля
+itm_sword_khergit_4_pl|Важкі шаблі
+itm_mace_1|Важкий шестопер
+itm_mace_1_pl|Важкі перначі
+itm_mace_2|Жезл
+itm_mace_2_pl|Жезли
+itm_mace_3|Шпичаста палиця
+itm_mace_3_pl|Колючі палиці
+itm_mace_4|Пернач
+itm_mace_4_pl|Перначі
+itm_club_with_spike_head|Дубина з шипами
+itm_club_with_spike_head_pl|Дубини з шипами
+itm_long_spiked_club|Довга палиця
+itm_long_spiked_club_pl|Довгі палиці
+itm_long_hafted_knobbed_mace|Довгий пірнач
+itm_long_hafted_knobbed_mace_pl|Довгі пірначі
+itm_long_hafted_spiked_mace|Довга булава з шипами
+itm_long_hafted_spiked_mace_pl|Довгі булави з шипами
+itm_sarranid_two_handed_mace_1|Залізна булава
+itm_sarranid_two_handed_mace_1_pl|Залізні булави
+itm_sarranid_mace_1|Залізна булава
+itm_sarranid_mace_1_pl|Залізні булави
+itm_sarranid_axe_a|Залізний бойова сокира
+itm_sarranid_axe_a_pl|Залізні бойові сокири
+itm_sarranid_axe_b|Залізний солдатський сокира
+itm_sarranid_axe_b_pl|Залізні солдатські сокири
+itm_sarranid_two_handed_axe_a|Саранідська бойова сокира
+itm_sarranid_two_handed_axe_a_pl|Саранідські бойові сокири
+itm_sarranid_two_handed_axe_b|Саранідська солдатська сокира
+itm_sarranid_two_handed_axe_b_pl|Саранідські солдатські сокири
+itm_scythe|Коса
+itm_scythe_pl|Коса
+itm_pitch_fork|Рогатина
+itm_pitch_fork_pl|Рогатини
+itm_military_fork|Солдатські вила
+itm_military_fork_pl|Солдатські вила
+itm_battle_fork|Бойові вила
+itm_battle_fork_pl|Бойові вила
+itm_boar_spear|Протазан
+itm_boar_spear_pl|Протазан
+itm_jousting_lance|Затуплена кавалерійська піка
+itm_jousting_lance_pl|Затуплена кавалерійські піки
+itm_double_sided_lance|Двостороння ланса
+itm_double_sided_lance_pl|Двосторонні ланси
+itm_glaive_pl|Глейв
+itm_poleaxe|Кавалерійський сокира
+itm_poleaxe_pl|Кавалерійські сокири
+itm_polehammer|Дерев'яний молот
+itm_polehammer_pl|Дерев'яні молоти
+itm_staff|Патериця
+itm_staff_pl|Патериці
+itm_quarter_staff|Обкований посох
+itm_quarter_staff_pl|Обковані посохи
+itm_iron_staff|Залізний посох
+itm_iron_staff_pl|Залізні палиці
+itm_shortened_spear|Вкорочений спис
+itm_shortened_spear_pl|Вкорочені списи
+itm_spear|Спис
+itm_spear_pl|Списи
+itm_bamboo_spear|Бамбуковий спис
+itm_bamboo_spear_pl|Бамбукові списи
+itm_war_spear|Бойовий спис
+itm_war_spear_pl|Бойові списи
+itm_military_scythe|Бойова коса
+itm_military_scythe_pl|Бойова коса
+itm_light_lance|Легка ланса
+itm_light_lance_pl|Легкі ланса
+itm_lance|Ланса
+itm_lance_pl|Ланса
+itm_heavy_lance|Важка ланса
+itm_heavy_lance_pl|Важкі ланси
+itm_great_lance|Велика турнірна ланса
+itm_great_lance_pl|Великі турнірні ланси
+itm_pike|Піка
+itm_pike_pl|Піки
+itm_ashwood_pike|Ясенева піка
+itm_ashwood_pike_pl|Ясеневі піки
+itm_awlpike|Альшпіс
+itm_awlpike_pl|Альшпіси
+itm_awlpike_long|Довгий альшпіс
+itm_awlpike_long_pl|Довгі альшпіси
+itm_bec_de_corbin_a|Бек де корбін
+itm_bec_de_corbin_a_pl|Бек де корбіни
+itm_wooden_shield|Дерев'яний щит
+itm_wooden_shield_pl|Дерев'яні щити
+itm_nordic_shield|Нордський щит
+itm_nordic_shield_pl|Нордські щити
+itm_fur_covered_shield|Обтягнутий шкірою щит
+itm_fur_covered_shield_pl|Обтягнуті шкірою щити
+itm_steel_shield|Сталевий щит
+itm_steel_shield_pl|Сталеві щити
+itm_plate_covered_round_shield|Окутий круглий щит
+itm_plate_covered_round_shield_pl|Оковані круглі щити
+itm_leather_covered_round_shield|Обтягнутий шкірою круглий щит
+itm_leather_covered_round_shield_pl|Обтягнуті шкірою круглі щити
+itm_hide_covered_round_shield|Обтягнутий сиром'ятною шкірою щит
+itm_hide_covered_round_shield_pl|Обтягнуті сиром'ятною шкірою щити
+itm_shield_heater_c|Тарч
+itm_shield_heater_c_pl|Тарчі
+itm_norman_shield_1|Каплевидний щит
+itm_norman_shield_1_pl|Краплеподібні щити
+itm_norman_shield_2|Каплевидний щит
+itm_norman_shield_2_pl|Краплеподібні щити
+itm_norman_shield_3|Каплевидний щит
+itm_norman_shield_3_pl|Краплеподібні щити
+itm_norman_shield_4|Каплевидний щит
+itm_norman_shield_4_pl|Краплеподібні щити
+itm_norman_shield_5|Каплевидний щит
+itm_norman_shield_5_pl|Краплеподібні щити
+itm_norman_shield_6|Каплевидний щит
+itm_norman_shield_6_pl|Краплеподібні щити
+itm_norman_shield_7|Каплевидний щит
+itm_norman_shield_7_pl|Краплеподібні щити
+itm_norman_shield_8|Каплевидний щит
+itm_norman_shield_8_pl|Краплеподібні щити
+itm_tab_shield_round_a|Старий круглий щит
+itm_tab_shield_round_a_pl|Старі круглі щити
+itm_tab_shield_round_b|Простий круглий щит
+itm_tab_shield_round_b_pl|Прості круглі щити
+itm_tab_shield_round_c|Круглий щит
+itm_tab_shield_round_c_pl|Круглі щити
+itm_tab_shield_round_d|Важкий круглий щит
+itm_tab_shield_round_d_pl|Важкі круглі щити
+itm_tab_shield_round_e|Круглий щит гускерла
+itm_tab_shield_round_e_pl|Круглі щити гускерлів
+itm_tab_shield_kite_a|Старий каплевидний щит
+itm_tab_shield_kite_a_pl|Старі краплеподібні щити
+itm_tab_shield_kite_b|Простий каплевидний щит
+itm_tab_shield_kite_b_pl|Прості краплеподібні щити
+itm_tab_shield_kite_c|Каплевидний щит
+itm_tab_shield_kite_c_pl|Краплеподібні щити
+itm_tab_shield_kite_d|Важкий каплевидний щит
+itm_tab_shield_kite_d_pl|Важкі краплеподібні щити
+itm_tab_shield_kite_cav_a|Кавалерійський каплевидний щит
+itm_tab_shield_kite_cav_a_pl|Кавалерійські краплеподібні щити
+itm_tab_shield_kite_cav_b|Лицарський каплевидний щит
+itm_tab_shield_kite_cav_b_pl|Лицарські краплеподібні щити
+itm_tab_shield_heater_a|Старий тарч
+itm_tab_shield_heater_a_pl|Старі тарчі
+itm_tab_shield_heater_b|Звичайний тарч
+itm_tab_shield_heater_b_pl|Звичайні тарчі
+itm_tab_shield_heater_c|Тарч
+itm_tab_shield_heater_c_pl|Тарчі
+itm_tab_shield_heater_d|Важкий тарч
+itm_tab_shield_heater_d_pl|Важкі тарчі
+itm_tab_shield_heater_cav_a|Кавалерійський тарч
+itm_tab_shield_heater_cav_a_pl|Кавалерійські тарчі
+itm_tab_shield_heater_cav_b|Лицарський тарч
+itm_tab_shield_heater_cav_b_pl|Лицарські тарчи
+itm_tab_shield_pavise_a|Стара павезі
+itm_tab_shield_pavise_a_pl|Старі павези
+itm_tab_shield_pavise_b|Звичайна павеза
+itm_tab_shield_pavise_b_pl|Звичайні павези
+itm_tab_shield_pavise_c|Павеза
+itm_tab_shield_pavise_c_pl|Павезі
+itm_tab_shield_pavise_d|Важка павеза
+itm_tab_shield_pavise_d_pl|Важкі павезі
+itm_tab_shield_small_round_a|Простий кавалерійський щит
+itm_tab_shield_small_round_a_pl|Прості кавалерійські щити
+itm_tab_shield_small_round_b|Круглий щит кавалерійський
+itm_tab_shield_small_round_b_pl|Круглі кавалерійські щити
+itm_tab_shield_small_round_c|Щит кінної Гвардії
+itm_tab_shield_small_round_c_pl|Щити кінної Гвардії
+itm_darts|Метальний шип
+itm_darts_pl|Метальні шипи
+itm_war_darts|Бойова сулиця
+itm_war_darts_pl|Бойові сулиці
+itm_javelin|Дротики
+itm_javelin_pl|Дротики
+itm_javelin_melee|Дротик
+itm_javelin_melee_pl|Дротики
+itm_throwing_spears|Сулиця
+itm_throwing_spears_pl|Сулиці
+itm_throwing_spear_melee|Сулиця
+itm_throwing_spear_melee_pl|Сулиці
+itm_jarid|Джарид
+itm_jarid_pl|Джариди
+itm_jarid_melee|Джарид
+itm_jarid_melee_pl|Джариди
+itm_stones|Каміння
+itm_stones_pl|Каміння
+itm_throwing_knives|Метальні ножі
+itm_throwing_knives_pl|Метальні ножі
+itm_throwing_daggers|Метальні кинджали
+itm_throwing_daggers_pl|Метальні кинджали
+itm_light_throwing_axes|Легкі метальні сокири
+itm_light_throwing_axes_pl|Легкі метальні сокири
+itm_light_throwing_axes_melee|Легкі метальні сокири
+itm_light_throwing_axes_melee_pl|Легкі метальні сокири
+itm_throwing_axes|Метальні сокири
+itm_throwing_axes_pl|Метальні сокири
+itm_throwing_axes_melee|Метальні сокири
+itm_throwing_axes_melee_pl|Метальні сокири
+itm_heavy_throwing_axes|Важкі метальні сокири
+itm_heavy_throwing_axes_pl|Важкі метальні сокири
+itm_heavy_throwing_axes_melee|Важка метальна сокира
+itm_heavy_throwing_axes_melee_pl|Важкі метальні сокири
+itm_hunting_bow|Мисливський лук
+itm_hunting_bow_pl|Мисливські луки
+itm_short_bow|Короткий лук
+itm_short_bow_pl|Короткі луки
+itm_nomad_bow|Лук кочівника
+itm_nomad_bow_pl|Луки кочівників
+itm_long_bow|Довгий лук
+itm_long_bow_pl|Довгі луки
+itm_khergit_bow|Хергітський лук
+itm_khergit_bow_pl|Хергітські луки
+itm_strong_bow|Тугий лук
+itm_strong_bow_pl|Тугі луки
+itm_war_bow|Бойовий лук
+itm_war_bow_pl|Бойові луки
+itm_hunting_crossbow|Мисливський арбалет
+itm_hunting_crossbow_pl|Мисливські арбалети
+itm_light_crossbow|Легкий арбалет
+itm_light_crossbow_pl|Легкі арбалети
+itm_crossbow|Арбалет
+itm_crossbow_pl|Арбалети
+itm_heavy_crossbow|Важкий арбалет
+itm_heavy_crossbow_pl|Важкі арбалети
+itm_sniper_crossbow|Облоговий арбалет
+itm_sniper_crossbow_pl|Облогові арбалети
+itm_flintlock_pistol|Ударно-кремінний пістолет
+itm_flintlock_pistol_pl|Ударно-крем'яні пістолети
+itm_torch|Смолоскип
+itm_torch_pl|Смолоскипи
+itm_lyre|Ліра
+itm_lyre_pl|Ліри
+itm_lute|Лютня
+itm_lute_pl|Лютні
+itm_strange_armor|Незвичайний обладунок
+itm_strange_armor_pl|Незвичайні обладунки
+itm_strange_boots|Незвичайні чоботи
+itm_strange_boots_pl|Незвичайні чоботи
+itm_strange_helmet|Незвичайний шолом
+itm_strange_helmet_pl|Незвичайні шоломи
+itm_strange_sword|Незвичайний меч
+itm_strange_sword_pl|Незвичайні мечі
+itm_strange_great_sword|Незвичайний великий меч
+itm_strange_great_sword_pl|Незвичайні великі мечі
+itm_strange_short_sword|Незвичайний короткий меч
+itm_strange_short_sword_pl|Незвичайні короткі мечі
+itm_court_dress|Суддівська мантія
+itm_court_dress_pl|Суддівські мантії
+itm_rich_outfit|Багате плаття
+itm_rich_outfit_pl|Багаті сукні
+itm_khergit_guard_armor|Обладунок хергітської варти
+itm_khergit_guard_armor_pl|Обладунки хергітської варти
+itm_felt_steppe_cap|Повстяна шапка степняка
+itm_felt_steppe_cap_pl|Повстяні шапки степовиків
+itm_khergit_war_helmet|Хергітський бойовий шолом
+itm_khergit_war_helmet_pl|Хергітські бойові шоломи
+itm_khergit_helmet|Хергітський шолом
+itm_khergit_helmet_pl|Хергітські шоломи
+itm_khergit_guard_boots|Чоботи хергітської варти
+itm_khergit_guard_boots_pl|Чоботи хергітської варти
+itm_khergit_guard_helmet|Шолом хергітської варти
+itm_khergit_guard_helmet_pl|Шоломи хергітської варти
+itm_khergit_cavalry_helmet|Хергітський кавалерійський шолом
+itm_khergit_cavalry_helmet_pl|Хергітський кавалерійський шолом
+itm_black_hood|Чорний каптур
+itm_black_hood_pl|Чорні капюшони
+itm_light_leather|Шкіряний каптан
+itm_light_leather_pl|Шкіряні каптани
+itm_light_leather_boots|Чоботи з легкої шкіри
+itm_light_leather_boots_pl|Чоботи з легкої шкіри
+itm_mail_and_plate|Кольчуга і броня
+itm_mail_and_plate_pl|Кольчуга та броня
+itm_light_mail_and_plate|Легка кольчуга і броня
+itm_light_mail_and_plate_pl|Легка кольчуга і броня
+itm_byzantion_helmet_a|Левантський шолом
+itm_byzantion_helmet_a_pl|Левантські шоломи
+itm_magyar_helmet_a|Мадярський шолом
+itm_magyar_helmet_a_pl|Мадярські шоломи
+itm_rus_helmet_a|Слов'янський шолом
+itm_rus_helmet_a_pl|Слов'янські шоломи
+itm_sipahi_helmet_a|Сипайські шолом
+itm_sipahi_helmet_a_pl|Сипайські шоломи
+itm_shahi|Шолом шахи
+itm_shahi_pl|Шоломи шахи
+itm_rabati|Шолом рабаті
+itm_rabati_pl|Шоломи рабаті
+itm_tunic_with_green_cape|Туніка із зеленим капюшоном
+itm_tunic_with_green_cape_pl|Туніки із зеленими капюшонами
+itm_keys|Зв'язка ключів
+itm_keys_pl|Зв'язки ключів
+itm_bride_dress|Сукні нареченої
+itm_bride_dress_pl|Сукні нареченої
+itm_bride_crown|Квітковий вінок
+itm_bride_crown_pl|Квіткові вінки
+itm_bride_shoes|Туфлі нареченої
+itm_bride_shoes_pl|Туфлі нареченої
+itm_practice_bow_2|Навчальний лук
+itm_practice_bow_2_pl|Навчальний лук
+itm_practice_arrows_2|Навчальні стріли
+itm_practice_arrows_2_pl|Навчальні стріли
+itm_plate_boots|Панцерні черевики
+itm_plate_boots_pl|Панцерні черевики
+itm_mail_boots_for_tableau|Кольчужні чоботи
+itm_mail_boots_for_tableau_pl|Кольчужні чоботи
+itm_warhorse_sarranid|Саранідський бойовий кінь
+itm_warhorse_sarranid_pl|Саранідський бойовий кінь
+itm_warhorse_steppe|Степовий бойовий кінь
+itm_warhorse_steppe_pl|Степовий бойовий кінь
+itm_items_end|Завершення переліку
+itm_items_end_pl|Завершення переліку
+itm_mail_with_tunic_red|Кольчуга з тунікою
+itm_mail_with_tunic_red_pl|Кольчуга з тунікою
+itm_mail_with_tunic_green|Кольчуга з тунікою
+itm_mail_with_tunic_green_pl|Кольчуга з тунікою

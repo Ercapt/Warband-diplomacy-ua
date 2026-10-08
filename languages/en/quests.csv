@@ -1,0 +1,65 @@
+﻿qst_deliver_message|Доставити повідомлення {s13}
+qst_deliver_message_to_enemy_lord|Доставити повідомлення {s13}
+qst_raise_troops|Набрати {reg1} людей {s14}.
+qst_escort_lady|Супроводжувати {s13} {s14}
+qst_deal_with_bandits_at_lords_village|Врятувати село {s15} від бандитів
+qst_collect_taxes|Зібрати податки {s3}
+qst_hunt_down_fugitive|Вистежити {s4}
+qst_kill_local_merchant|Убити торговця з {s3}
+qst_bring_back_runaway_serfs|Зловити рабів-утікачів
+qst_follow_spy|Простежити за шпигуном
+qst_capture_enemy_hero|Захопити лорда {s13}.
+qst_lend_companion|Залишити {s3} з {s9}
+qst_collect_debt|Забрати гроші, які {s3} заборгував {s9}
+qst_incriminate_loyal_commander|Обмовити {s16} з {s13}.
+qst_meet_spy_in_enemy_town|Зустрітися зі шпигуном {s13}
+qst_capture_prisoners|Привести {reg1} полонених із числа {s3}
+qst_lend_surgeon|Віддати Вашого хірурга {s3} {s1}
+qst_follow_army|Слідувати за армією {s9}
+qst_report_to_army|Доповісти головнокомандувачеві - {s13}
+qst_deliver_cattle_to_army|Доставити {reg3} голів худоби {s13}
+qst_join_siege_with_army|Прийняти участь в облозі {s14}
+qst_screen_army|Прикрити просування армії {s13}
+qst_scout_waypoints|Обстежити {s13}, {s14} і {s15}
+qst_rescue_lord_by_replace|Урятувати {s13} з {s14}
+qst_deliver_message_to_prisoner_lord|Доставити повідомлення {s13} {s14}
+qst_duel_for_lady|Ви та {s13} маєте битися на дуелі честі
+qst_duel_courtship_rival|Ви та {s13} маєте битися на поєдинку честі (необов'язково)
+qst_duel_avenge_insult|Викликати {s13} на поєдинок честі
+qst_move_cattle_herd|Відвести худобу {s13}
+qst_escort_merchant_caravan|Довести торговий караван до {s8}
+qst_deliver_wine|Доставити {reg5} діжок {s6} {s4}.
+qst_troublesome_bandits|Вистежити настирливих бандитів
+qst_kidnapped_girl|Урятувати дівчину від шибайголів
+qst_persuade_lords_to_make_peace|Переконатися, що обидва правителі не заперечують проти мирної угоди
+qst_deal_with_looters|Розібратися зі злодіями
+qst_deal_with_night_bandits|Розібратися з нічними бандитами
+qst_deliver_grain|Принести зерно {s3}
+qst_deliver_cattle|Доставити {reg5} голів худоби {s3}
+qst_train_peasants_against_bandits|Підготувати селян з {s13} до бою з бандитами.
+qst_eliminate_bandits_infesting_village|Урятувати село {s7} від нападників
+qst_visit_lady|Відвідати даму
+qst_formal_marriage_proposal|Зробити формальну пропозицію шлюбу
+qst_obtain_liege_blessing|Зробити формальну пропозицію шлюбу
+qst_wed_betrothed|Одружитися
+qst_wed_betrothed_female|Одружитися
+qst_join_faction|Принести клятву вірності {s1}
+qst_rebel_against_kingdom|Допомогти {s13} заявити право на престол {s14}
+qst_consult_with_minister|Побалакати з радником
+qst_organize_feast|Влаштувати бенкет
+qst_resolve_dispute|Вирішити суперечку
+qst_offer_gift|Доставити подарунок
+qst_denounce_lord|Звинуватити лорда
+qst_intrigue_against_lord|Влаштувати змову проти лорда
+qst_track_down_bandits|Вистежити шибайголів
+qst_track_down_provocateurs|Вистежити провокаторів
+qst_retaliate_for_border_incident|Помститися за прикордонну сутичку
+qst_raid_caravan_to_start_war|Розграбувати {reg13} караванів, що належать {s13}
+qst_cause_provocation|Нацькувати одне королівство на інше
+qst_rescue_prisoner|Урятувати або викупити полоненого
+qst_destroy_bandit_lair|Знищити лігво шибайголів
+qst_collect_men|Набрати п'ятьох людей до загону
+qst_learn_where_merchant_brother_is|Дізнатися, де тримають заручників
+qst_save_relative_of_merchant|Напасти на лігво бандитів
+qst_save_town_from_bandits|Врятувати місто від бандитів
+qst_quests_end|Завдання виконано
