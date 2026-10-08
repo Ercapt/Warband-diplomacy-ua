@@ -4,16 +4,17 @@
 
 Автор перекладу: https://steamcommunity.com/id/gouseks/
 
-## Встановлення
+## Встановлення (Python не потрібен)
 
-1. Зробіть резервну копію папки `languages` вашого моду Diplomacy.
+1. Зробіть резервну копію папок `languages` і файлу `info_pages.txt`
+   вашого моду Diplomacy.
 2. Скопіюйте вміст `languages/en/` з цього репозиторію до:
    `.../MountBlade Warband/Modules/Diplomacy/languages/en/`
-3. Файл `info_pages.txt` перегенеровується з `source/module_info_pages.py`
-   скриптом `tools/fix_info.py` (потрібен Python 3.11+):
-   `python tools/fix_info.py`
+3. Скопіюйте `info_pages.txt` з кореня репозиторію до:
+   `.../MountBlade Warband/Modules/Diplomacy/info_pages.txt`
 4. Кнопка «Посібник» (замість «Ідея гри») — це рядок `ui_info_pages`
    у системному файлі `languages/en/ui.csv` основної гри, не моду.
+   Міняється вручну одним рядком.
 
 ## Стиль
 
@@ -21,6 +22,11 @@
 - Бандити, лутівщики, дезертири — на **ти**.
 - Селяни — проста мова, точкові архаїзми (либонь, мосьпане), без перебору.
 - Міста/замографи — рід за контекстом, без «він/вона» там, де движок не дає роду.
+
+## Для розробки
+
+- `source/module_info_pages.py` — вихідник сторінок довідки.
+  `info_pages.txt` у корені — вже зібраний з нього, ставити готовий.
 
 ## Ліцензія
 
